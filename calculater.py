@@ -20,4 +20,4 @@ elif choice == "/":
      divide_of_number = num1 / num2
 
 else:
-    ("inalid Choice")
+    print("inalid Choice")
